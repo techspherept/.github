@@ -1,6 +1,11 @@
 # Bem-vindo à Techsphere! 🌐
 
 <p align="center">
+  <img src="https://github.com/techspherept/.github/blob/main/profile/logoempresa.webp" alt="Logo da Techsphere" width="200">
+</p>
+
+
+<p align="center">
   <img src="https://via.placeholder.com/200" alt="Logo da Techsphere" width="200">
 </p>
 
