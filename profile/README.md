@@ -5,10 +5,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://via.placeholder.com/200" alt="Logo da Techsphere" width="200">
-</p>
-
 ## 🚀 Sobre a Techsphere
 
 Na Techsphere, criamos soluções tecnológicas para ajudar empresas e pessoas a alcançarem seus objetivos. Nosso foco é entregar inovação e excelência em cada projeto que realizamos.
