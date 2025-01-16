@@ -1,5 +1,5 @@
-# Bem-vindo à Techsphere! <p >
-  <img src="https://github.com/techspherept/.github/blob/main/profile/logoempresa.webp" alt="Logo da Techsphere" width="90">
+# Bem-vindo à Techsphere! <p align="center">
+  <img src="https://github.com/techspherept/.github/blob/main/profile/logoempresa.webp" alt="Logo da Techsphere" width="70">
 </p>
 
 
