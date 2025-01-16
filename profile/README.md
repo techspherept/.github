@@ -1,6 +1,9 @@
 <div align="center" style="border: 1px solid #ccc; border-radius: 14px; padding: 10px; display: inline-block;">
-  <h1 align="left">Bem-vindo à Techsphere! 🌐</h1>
-  <img src="https://github.com/techspherept/.github/blob/main/profile/logoempresa.webp" alt="Logo da Techsphere" width="50" style="display: block; margin: auto;">
+  <h1 align="left">Bem-vindo à Techsphere! 
+   <img src="https://github.com/techspherept/.github/blob/main/profile/logoempresa.webp" alt="Logo da Techsphere" width="50" style="display: block; margin: auto;">
+  
+  </h1>
+ 
 </div>
 
 
